@@ -14,9 +14,7 @@ This is a simple hand gesture-based paint application developed using Python and
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
 
-[Insert GIF or Video demonstration here]
 
 ## Features
 
@@ -26,7 +24,7 @@ This is a simple hand gesture-based paint application developed using Python and
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - OpenCV
 - Mediapipe
 
@@ -59,11 +57,3 @@ This is a simple hand gesture-based paint application developed using Python and
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request or create an issue to report bugs or suggest improvements.
-
-## License
-
-[Insert License information here]
-
----
-
-Feel free to customize the README according to your project's specifics, add license information, and include any additional details you find relevant.
